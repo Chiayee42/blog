@@ -6,15 +6,60 @@
   <link href="https://chiayee42.github.io/atom.xml" rel="self"/>
   
   <link href="https://chiayee42.github.io/"/>
-  <updated>2023-03-20T10:34:21.515Z</updated>
+  <updated>2023-03-20T12:52:10.774Z</updated>
   <id>https://chiayee42.github.io/</id>
   
-  <author>
-    <name>John Doe</name>
-    
-  </author>
-  
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo写作简单笔记</title>
+    <link href="https://chiayee42.github.io/2023/03/20/Hexo%E5%86%99%E4%BD%9C%E7%AE%80%E5%8D%95%E7%AC%94%E8%AE%B0-1/"/>
+    <id>https://chiayee42.github.io/2023/03/20/Hexo%E5%86%99%E4%BD%9C%E7%AE%80%E5%8D%95%E7%AC%94%E8%AE%B0-1/</id>
+    <published>2023-03-20T12:52:10.000Z</published>
+    <updated>2023-03-20T12:52:10.774Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Hexo写作简单笔记&quot;&gt;&lt;a href=&quot;#Hexo写作简单笔记&quot; class=&quot;headerlink&quot; title=&quot;Hexo写作简单笔记&quot;&gt;&lt;/a&gt;Hexo写作简单笔记&lt;/h1&gt;&lt;h2 id=&quot;新建笔记&quot;&gt;&lt;a href=&quot;#新建笔记&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="分类" scheme="https://chiayee42.github.io/categories/%E5%88%86%E7%B1%BB/"/>
+    
+    
+    <category term="标签" scheme="https://chiayee42.github.io/tags/%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo写作简单笔记</title>
+    <link href="https://chiayee42.github.io/2023/03/20/Hexo%E5%86%99%E4%BD%9C%E7%AE%80%E5%8D%95%E7%AC%94%E8%AE%B0/"/>
+    <id>https://chiayee42.github.io/2023/03/20/Hexo%E5%86%99%E4%BD%9C%E7%AE%80%E5%8D%95%E7%AC%94%E8%AE%B0/</id>
+    <published>2023-03-20T11:17:08.000Z</published>
+    <updated>2023-03-20T12:14:49.098Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Hexo写作简单笔记&quot;&gt;&lt;a href=&quot;#Hexo写作简单笔记&quot; class=&quot;headerlink&quot; title=&quot;Hexo写作简单笔记&quot;&gt;&lt;/a&gt;Hexo写作简单笔记&lt;/h1&gt;&lt;h2 id=&quot;创建一篇新笔记&quot;&gt;&lt;a href=&quot;#创建一篇新笔记&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="分类" scheme="https://chiayee42.github.io/categories/%E5%88%86%E7%B1%BB/"/>
+    
+    
+    <category term="标签" scheme="https://chiayee42.github.io/tags/%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
