@@ -17,5 +17,9 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <tags>
+        <tag>hello</tag>
+        <tag>world</tag>
+      </tags>
   </entry>
 </search>

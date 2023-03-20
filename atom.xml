@@ -6,7 +6,7 @@
   <link href="https://chiayee42.github.io/atom.xml" rel="self"/>
   
   <link href="https://chiayee42.github.io/"/>
-  <updated>2023-03-20T08:54:23.007Z</updated>
+  <updated>2023-03-20T10:24:38.799Z</updated>
   <id>https://chiayee42.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://chiayee42.github.io/2023/03/20/hello-world/"/>
     <id>https://chiayee42.github.io/2023/03/20/hello-world/</id>
     <published>2023-03-20T08:54:23.006Z</published>
-    <updated>2023-03-20T08:54:23.007Z</updated>
+    <updated>2023-03-20T10:24:38.799Z</updated>
     
     
       
@@ -34,6 +34,10 @@
     
     
     
+    
+    <category term="hello" scheme="https://chiayee42.github.io/tags/hello/"/>
+    
+    <category term="world" scheme="https://chiayee42.github.io/tags/world/"/>
     
   </entry>
   
